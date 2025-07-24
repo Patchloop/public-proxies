@@ -59,6 +59,8 @@ No manual refresh is required.
 ## ❤️ Maintained by
 
 [xpayload](https://github.com/xpayload) - with love for open networking tools.
-[![Contactează-mă pe Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge)](https://t.me/share/url?url=&text=contact)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge)](https://t.me/lollol0003)
+
 
 
