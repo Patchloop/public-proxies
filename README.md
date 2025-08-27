@@ -1,7 +1,7 @@
-🔗 [🔍 View Proxies Live (HTML Table)](https://konorze.github.io/public-proxies/proxies.html)
+🔗 [🔍 View Proxies Live (HTML Table)](https://patchloop.github.io/public-proxies/proxies.html)
 # 🌐 Public Proxy List (Updated Every 2 Hours)
 
-Welcome to the **Public Proxy Feed** — a continuously updated list of verified, working proxy servers.
+Welcome to the **Public Proxy Feed**  a continuously updated list of verified, working proxy servers.
 
 > ⚡️ All proxies are automatically scanned, tested, and updated every **2 hours**.
 
@@ -58,9 +58,9 @@ No manual refresh is required.
 
 ## ❤️ Maintained by
 
-[xpayload](https://github.com/xpayload) - with love for open networking tools.
+[patchloop](https://github.com/patchloop) - with love for open networking tools.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge)](https://t.me/lollol0003)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge)](https://t.me/patchloop)
 
 
 
