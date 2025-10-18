@@ -3,7 +3,7 @@
 
 Welcome to the **Public Proxy Feed**  a continuously updated list of verified, working proxy servers
 
-> ⚡️ All proxies are automatically scanned, tested, and updated every **6 hours**
+> ⚡️ All proxies are automatically scanned, tested, and updated every **12 hours**
 
 ---
 
