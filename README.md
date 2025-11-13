@@ -1,5 +1,5 @@
 🔗 [🔍 View Proxies Live (HTML Table)](https://patchloop.github.io/public-proxies/proxies.html)
-# 🌐 Public Proxy List (Updated Every 6 Hours)
+# 🌐 Public Proxy List (Updated Every 12 Hours)
 
 Welcome to the **Public Proxy Feed**  a continuously updated list of verified, working proxy servers
 
@@ -43,7 +43,7 @@ Welcome to the **Public Proxy Feed**  a continuously updated list of verified, w
 
 ## 🔁 Update Schedule
 
-The list is updated automatically **every 6 hours** via GitHub Actions
+The list is updated automatically **every 12 hours** via GitHub Actions
 No manual refresh is required
 
 ---
